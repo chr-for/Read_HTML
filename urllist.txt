@@ -1,0 +1,5 @@
+https://sample.com/sample1.html
+https://sample.com/sample2.html
+https://sample.com/sample3.html
+https://sample.com/sample4.html
+https://sample.com/sample5.html
